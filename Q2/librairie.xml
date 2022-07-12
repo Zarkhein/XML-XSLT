@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="livres.xsl"?>
+
+<librairie>
+    <livre theme="Litterature" recompense="" prix="30">
+        <titre>Les bienveillantes</titre>
+        <couverture>bienveillantes.gif</couverture>
+        <auteurs>
+            <auteur>Jonathan Littell</auteur>
+            <auteur>Amelie Nothomb</auteur>
+        </auteurs>
+    </livre>
+    <livre theme="Littérature" recompense="Renaudot" prix="20">
+        <titre>Journal d'hirondelle</titre>
+        <couverture>hirondelle.gif</couverture>
+        <auteurs>
+            <auteur>Amelie Nothomb</auteur>
+            <auteur>Mourier</auteur>
+        </auteurs>
+    </livre>
+    <livre theme="" recompense="" prix="25">
+        <titre>Trolls de Troy</titre>
+        <couverture>troy.gif</couverture>
+        <auteurs>
+            <auteur>Mourier</auteur>
+            <auteur>Jonathan Littell</auteur>
+        </auteurs>
+    </livre>
+    <livre theme="" recompense="Femina" prix="20">
+        <titre>Le retour a la terre</titre>
+        <couverture>retour.gif</couverture>
+        <auteurs>
+            <auteur>Larcenet</auteur>
+        </auteurs>
+    </livre>
+</librairie>
